@@ -1,7 +1,7 @@
 {
-  "name": "prisma-enum",
-  "version": "1.2.0",
-  "description": "CLI tool for exporting enums from @prisma/client to reduce bundle size.",
+  "name": "components.html",
+  "version": "0.0.0",
+  "description": "HTML components library.",
   "main": "index.js",
   "types": "index.d.ts",
   "author": "Richard Xiong",
