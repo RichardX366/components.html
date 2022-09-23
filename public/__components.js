@@ -68,7 +68,7 @@ class StyledInput extends HTMLElement {
     }
     const style = document.createElement('link');
     style.rel = 'stylesheet';
-    style.href = '__componentStyles.css';
+    style.href = '__components.css';
     this.shadowRoot.append(div, style);
   }
   get value() {
