@@ -1,6 +1,6 @@
 {
   "name": "@richardx/html-components",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "HTML components library.",
   "main": "index.js",
   "types": "index.d.ts",
